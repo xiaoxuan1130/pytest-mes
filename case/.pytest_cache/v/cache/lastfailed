@@ -1,0 +1,6 @@
+{
+  "test_03.py::test_login[login1]": true, 
+  "test_04.py::test_appLogin[loginApp0]": true, 
+  "test_04.py::test_login": true, 
+  "test_04.py::test_login[login0]": true
+}

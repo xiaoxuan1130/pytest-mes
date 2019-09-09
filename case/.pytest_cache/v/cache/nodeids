@@ -1,0 +1,5 @@
+[
+  "test_04.py::test_getUser[loginApp0]", 
+  "test_04.py::test_getCustomerPublic", 
+  "test_04.py::test_queryCustomer"
+]
